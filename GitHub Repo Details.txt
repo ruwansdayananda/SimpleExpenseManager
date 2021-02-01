@@ -1,0 +1,10 @@
+--------------------------GIT HUB REPOSITORY DETAILS--------------------------------------
+|                                                                                        |
+|	Web URL    : https://github.com/ruwansdayananda/SimpleExpenseManager.git         |     
+|	SSH        : git@github.com:ruwansdayananda/SimpleExpenseManager.git             |
+|	GitHub Cli : gh repo clone ruwansdayananda/SimpleExpenseManager                  |
+|                                                                                        |
+|		*************************************************                        |
+|	        *   Project is Available in 'master' branch     *                        |
+|               *************************************************                        |
+------------------------------------------------------------------------------------------
