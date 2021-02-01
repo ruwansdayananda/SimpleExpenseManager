@@ -1,4 +1,4 @@
-#Tue Feb 02 00:36:26 IST 2021
+#Tue Feb 02 01:44:49 IST 2021
 base.0=F\:\\Education\\Semester 4-UoM\\Database Systems\\DBMS Mini Project\\SimpleExpenseManager\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
